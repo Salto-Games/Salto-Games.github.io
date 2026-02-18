@@ -496,3 +496,4 @@ lacunads.com, lcb555b3bc8667a09a, RESELLER
 lunamedia.io, 2fdb16a1-5025-4c41-9b17-e01e47ebc8b4, RESELLER, 524ecb396915caaf
 mars.media, 1010442, RESELLER
 thebrave.io, 1234634, RESELLER, c25b2154543746ac
+google.com, pub-3410902610186557, DIRECT, f08c47fec0942fa0
